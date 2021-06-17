@@ -9,3 +9,6 @@
 可以显示图片看效果。  
 
 其他的看原仓库即可。  
+
+训练了100万轮的voc 21类的模型下载地址
+https://share.weiyun.com/lVT4uoBa
